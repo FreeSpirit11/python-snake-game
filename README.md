@@ -23,9 +23,7 @@ Welcome to the Python Snake Game! Control the snake, eat food, and avoid collisi
    ```shell
    git clone https://github.com/FreeSpirit11/python-snake-game.git
    
-2.Run the `main.py` file: 
-    ```shell
-    python main.py
+2.Run the `main.py` file
 
 ## File Structure
 
