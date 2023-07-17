@@ -18,6 +18,7 @@ Welcome to the Python Snake Game! Control the snake, eat food, and avoid collisi
 - Speed increases as the snake grows longer.
 
 ## Getting Started
+
 1. Clone the repository:
    ```shell
    git clone https://github.com/FreeSpirit11/python-snake-game.git
